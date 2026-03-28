@@ -1118,7 +1118,7 @@ function renderContact(app) {
               <div class="contact-info-icon bg-yellow-soft"><i class="bi bi-geo-alt-fill"></i></div>
               <div>
                 <div class="contact-info-label">Location</div>
-                <div class="contact-info-value">Bengaluru, Karnataka, India</div>
+                <div class="contact-info-value">Delhi, New Delhi, India</div>
               </div>
             </div>
 
